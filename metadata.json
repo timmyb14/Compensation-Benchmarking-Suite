@@ -1,0 +1,6 @@
+{
+  "name": "Compensation Benchmarking Suite",
+  "description": "A comprehensive compensation and salary benchmarking suite for HR professionals, powered by Google Search Grounding to extract the latest data from portals and consulting firms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
